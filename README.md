@@ -25,4 +25,3 @@ This project is a console-based implementation of the classic Pac-Man game. It p
 5. **Play the Game:**
    - Use arrow keys to control Pac-Man and enjoy the game!
 
-## Screenshots
